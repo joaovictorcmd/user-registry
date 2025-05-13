@@ -2,7 +2,7 @@
 
 **User Registry** é um mini projeto desenvolvido como parte do curso de Formação Desenvolvedor Full Stack Java EBAC. Este aplicativo oferece uma interface gráfica simples para cadastrar e listar usuários, utilizando a biblioteca Swing do Java.
 
-## ✨ Tecnologias usadas
+## ✨ Tecnologias
 
 - Java 21
 - Swing (GUI)

@@ -1,8 +1,8 @@
-package controller;
+package main.java.com.joaovictorcmd.userregistry.controller;
 
-import model.domain.User;
-import model.service.UserService;
-import view.UserView;
+import main.java.com.joaovictorcmd.userregistry.model.domain.User;
+import main.java.com.joaovictorcmd.userregistry.model.service.UserService;
+import main.java.com.joaovictorcmd.userregistry.view.UserView;
 
 import javax.swing.*;
 import java.util.List;

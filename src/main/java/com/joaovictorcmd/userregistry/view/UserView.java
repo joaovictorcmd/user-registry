@@ -1,4 +1,4 @@
-package view;
+package main.java.com.joaovictorcmd.userregistry.view;
 
 import javax.swing.*;
 import java.awt.*;

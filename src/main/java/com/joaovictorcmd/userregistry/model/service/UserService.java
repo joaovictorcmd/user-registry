@@ -1,7 +1,7 @@
-package model.service;
+package main.java.com.joaovictorcmd.userregistry.model.service;
 
-import model.dao.UserDAO;
-import model.domain.User;
+import main.java.com.joaovictorcmd.userregistry.model.dao.UserDAO;
+import main.java.com.joaovictorcmd.userregistry.model.domain.User;
 
 import java.util.List;
 

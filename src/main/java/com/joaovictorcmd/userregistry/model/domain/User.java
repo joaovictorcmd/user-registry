@@ -1,4 +1,4 @@
-package model.domain;
+package main.java.com.joaovictorcmd.userregistry.model.domain;
 
 public class User {
 

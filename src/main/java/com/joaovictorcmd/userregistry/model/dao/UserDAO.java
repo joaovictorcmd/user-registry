@@ -1,6 +1,6 @@
-package model.dao;
+package main.java.com.joaovictorcmd.userregistry.model.dao;
 
-import model.domain.User;
+import main.java.com.joaovictorcmd.userregistry.model.domain.User;
 
 import java.util.ArrayList;
 import java.util.List;
